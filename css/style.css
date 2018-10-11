@@ -1,0 +1,20 @@
+* {
+    box-sizing: content-box;
+}
+body {
+    background: url("../img/pacmanGwada1.jpg") no-repeat center;
+    background-size: cover;
+}
+
+.rounded-circle {
+    height: 186px;
+    width: 331px;
+}
+
+.picture {
+    margin-top: 400px;
+}
+
+.only {
+    padding-left: 50px;
+}
